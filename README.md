@@ -15,6 +15,8 @@
   </a>
 </div>
 
+<img align="center" height="08em" width=1111 src="https://i.imgur.com/waxVImv.png"/>
+
 ###
 
 <h2 align="left">My Techs</h2>
@@ -59,6 +61,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
+<img align="center" height="08em" width=1111 src="https://i.imgur.com/waxVImv.png"/>
+
 ###
 
 <h2 align="left">My Stats</h2>
@@ -78,5 +82,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Giovanni-LN/Giovanni-LN/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Giovanni-LN/Giovanni-LN/output/pacman-contribution-graph.svg">
 </picture>
+
+<img align="center" height="08em" width=1111 src="https://i.imgur.com/waxVImv.png"/>
 
 ###
