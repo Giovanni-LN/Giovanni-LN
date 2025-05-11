@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">📚 - My name is Giovanni Lima and I am a Computer Science student at UFRPE (7th semester).<br><br>💻 - I am currently an intern in full-stack development at ISI-TICS.</p>
+📚 - My name is Giovanni Lima and I am a Computer Science student at UFRPE (7th semester).  
+💻 - I am currently an intern in full-stack development at [ISI-TICS](https://github.com/isi-tics/).
 
 ###
 
